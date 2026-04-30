@@ -1,57 +1,69 @@
 #  SQL Projects Portfolio
 
-Welcome to my SQL learning journey 🚀
+Welcome to my SQL learning journey 
+This repository contains projects that demonstrate my SQL skills from basic to advanced level.
 
 ---
 
 ## 🔹 Project 1: E-Commerce Database
-- Database design
-- CRUD operations
-- Aggregations
 
- [View Project](#  SQL Projects Portfolio
+ Folder: `project-1`
 
-Welcome to my SQL learning journey 🚀
+###  Description
 
----
+A basic e-commerce database system with customers, orders, products, and order details.
 
-## 🔹 Project 1: E-Commerce Database
-- Database design
-- CRUD operations
-- Aggregations
+###  Concepts Used
 
- [View Project](./project-1README.md)
+* Table creation
+* Primary & Foreign Keys
+* CRUD operations (INSERT, UPDATE, DELETE)
+* Filtering and sorting
+* Aggregation (SUM, AVG, MAX, MIN)
+* Subqueries
 
----
-
-## 🔹 Project 2: Advanced SQL (Data Transformer)
-- Joins
-- Subqueries
-- Window functions
-- CASE statements
-
- [View Project](.project-2README.md)
+ [View Project](./project-1/README.md)
 
 ---
 
-##  Skills
-- SQL
-- Data Analysis
-- Problem Solving)
+##  Project 2: Advanced SQL (Data Transformer)
 
----
+ Folder: `project-2`
 
-## 🔹 Project 2: Advanced SQL (Data Transformer)
-- Joins
-- Subqueries
-- Window functions
-- CASE statements
+### Description
+
+Advanced SQL queries for data analysis and transformation using multiple tables.
+
+###  Concepts Used
+
+* INNER JOIN, LEFT JOIN, RIGHT JOIN
+* Subqueries
+* Date functions
+* String functions
+* Window functions (RANK, SUM OVER)
+* CASE statements
 
  [View Project](./project-2/README.md)
 
 ---
 
-##  Skills
-- SQL
-- Data Analysis
-- Problem Solving
+##  Tools Used
+
+* MySQL
+* GitHub
+
+---
+
+##  Skills Gained
+
+* Writing complex SQL queries
+* Database design and relationships
+* Data analysis and transformation
+* Problem-solving with SQL
+
+---
+
+
+
+Dix
+Aspiring Data Analyst 🚀
