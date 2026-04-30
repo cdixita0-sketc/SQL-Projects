@@ -60,10 +60,3 @@ Advanced SQL queries for data analysis and transformation using multiple tables.
 * Database design and relationships
 * Data analysis and transformation
 * Problem-solving with SQL
-
----
-
-
-
-Dix
-Aspiring Data Analyst 🚀
