@@ -139,5 +139,3 @@ FROM Order_Detail;
 Beginner to Intermediate SQL Project
 
 --
-Dix
-(SQL Learner 🚀)
