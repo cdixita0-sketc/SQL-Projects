@@ -46,7 +46,27 @@ Advanced SQL queries for data analysis and transformation using multiple tables.
  [View Project](./project-2/README.md)
 
 ---
+🔹 Project 4: E-Commerce Management System
 
+📁 Folder: project-4
+
+📌 Description
+
+A complete e-commerce database system with multiple related tables and SQL queries for data analysis.
+
+🧠 Concepts Used
+Table creation
+Primary & Foreign Keys
+CRUD operations
+INNER JOIN, LEFT JOIN, RIGHT JOIN
+Subqueries
+Aggregate functions (SUM, AVG, COUNT)
+Date functions
+String functions
+Window functions
+CASE statements
+
+[View Project](./project-4/README.md)
 ##  Tools Used
 
 * MySQL
