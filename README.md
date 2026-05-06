@@ -5,15 +5,15 @@ This repository contains projects that demonstrate my SQL skills from basic to a
 
 ---
 
-## 🔹 Project 1: E-Commerce Database
+ Project 1: E-Commerce Database
 
  Folder: `project-1`
 
-###  Description
+  Description
 
 A basic e-commerce database system with customers, orders, products, and order details.
 
-###  Concepts Used
+Concepts Used :-
 
 * Table creation
 * Primary & Foreign Keys
@@ -26,15 +26,15 @@ A basic e-commerce database system with customers, orders, products, and order d
 
 ---
 
-##  Project 2: Advanced SQL (Data Transformer)
+Project 2: Advanced SQL (Data Transformer)
 
  Folder: `project-2`
 
-### Description
+Description :-
 
 Advanced SQL queries for data analysis and transformation using multiple tables.
 
-###  Concepts Used
+Concepts Used :-
 
 * INNER JOIN, LEFT JOIN, RIGHT JOIN
 * Subqueries
@@ -46,7 +46,7 @@ Advanced SQL queries for data analysis and transformation using multiple tables.
  [View Project](./project-2/README.md)
 
 ---
-🔹 Project 4: E-Commerce Management System
+Project 4: E-Commerce Management System
 
 📁 Folder: project-4
 
@@ -67,14 +67,14 @@ Window functions
 CASE statements
 
 [View Project](./project-4/README.md)
-##  Tools Used
+ Tools Used
 
 * MySQL
 * GitHub
 
 ---
 
-##  Skills Gained
+Skills Gained :-
 
 * Writing complex SQL queries
 * Database design and relationships
