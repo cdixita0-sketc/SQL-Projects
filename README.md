@@ -64,7 +64,7 @@ Concepts Used:
 * Window functions (SUM OVER - running total)
 * CASE statements (Student classification: Senior/Junior)
 
-[View Project](./project-3/)
+[View Project](./project-3/README.md)
 
 Project 4: E-Commerce Management System
 
