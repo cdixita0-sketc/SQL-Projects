@@ -1,4 +1,4 @@
-#  SQL Projects Portfolio
+SQL Projects Portfolio :-
 
 Welcome to my SQL learning journey 
 This repository contains projects that demonstrate my SQL skills from basic to advanced level.
@@ -45,7 +45,27 @@ Concepts Used :-
 
  [View Project](./project-2/README.md)
 
----
+Project 3: University Course Management System
+
+Folder: `project-3`
+
+Description:
+A relational database system designed for managing university operations including students, courses, departments, instructors, and enrollments.
+
+Concepts Used:
+
+* Table creation with relationships (Primary & Foreign Keys)
+* CRUD operations (INSERT, UPDATE, DELETE)
+* INNER JOIN, LEFT JOIN
+* Subqueries
+* Aggregate functions (COUNT, MAX, GROUP BY)
+* Date functions (YEAR, CURDATE)
+* String functions (CONCAT, TRIM)
+* Window functions (SUM OVER - running total)
+* CASE statements (Student classification: Senior/Junior)
+
+[View Project](./project-3/README.md)
+
 Project 4: E-Commerce Management System
 
 📁 Folder: project-4
